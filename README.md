@@ -1,2 +1,1 @@
-# micronaut-get-started
-Getting started with Micronaut (with Java)
+# Getting Started with Micronaut (with Java)
